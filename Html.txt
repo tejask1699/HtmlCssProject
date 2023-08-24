@@ -1,0 +1,5 @@
+head section : <head><head/> we write meta data of project like title,favi icon,css, javaScript
+
+Link css file: <link href="style.css" rel="stylesheet"/>
+		rel="stylesheet" to both document html and css
+

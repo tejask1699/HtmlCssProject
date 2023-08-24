@@ -1,0 +1,60 @@
+.header{
+    margin-top: 20px;
+    min-height: 60px;
+}
+.logo h1{
+    font-size: 27px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.logo h1 span:first-of-type{
+    padding: 0px 15px;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+    color: #d19c97;
+}
+.search_product input{
+    width: 70%;
+    height: 40px;
+    border-radius: 0;
+    padding: 10px;
+    font-size: 18px;
+    color: #666;
+    border: 1px solid #ddd;
+    border-right: none;
+}
+.search_product input:focus{
+    outline: none;
+}
+.search_product button{
+    height: 40px;
+    border-radius: 0;
+    border: 1px solid #ddd;
+    margin-left: -5px;
+    font-size: 15px;
+    color: #d19c97;
+    background-color: #fff;
+}
+.selected_product{
+    text-align: right;
+}
+
+.full_banner_wrapper{
+    border-top: 1px solid #ddd;
+
+}
+.list_header{
+    height: 65px;
+    background-color: #d19c97;
+}
+.list_header h4{
+    display: inline-block;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-weight: 500;
+}
+.list_header span{
+    float:right;
+    padding: 28px;
+}

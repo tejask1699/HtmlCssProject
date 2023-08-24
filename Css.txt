@@ -1,0 +1,26 @@
+Css Syntax 
+
+1.
+Selector    Declaration
+h1          {color:red}
+	 property   value
+
+2.
+3 types of Selector
+
+Element
+h1{color:red}
+
+id
+#title{color:green}
+
+Class
+.title{color:yellow}
+
+3.
+remove margin from body at start of project
+margin:0;
+
+4. 
+to select first Element for two Element
+span:first-of-type
